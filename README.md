@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abeeujah
 - 👀 I’m interested in Software development/ I.O.T
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, JavaScript, Python, HTML&CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abeeujah on all socials, WA.me/+2348185189099,Gmail abeeujah@gmail.com
 
